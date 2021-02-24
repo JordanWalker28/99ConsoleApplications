@@ -1,0 +1,12 @@
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/bin/Debug/netcoreapp3.1/HigherOrLower.deps.json
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/bin/Debug/netcoreapp3.1/HigherOrLower.runtimeconfig.json
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/bin/Debug/netcoreapp3.1/HigherOrLower.runtimeconfig.dev.json
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/bin/Debug/netcoreapp3.1/HigherOrLower.dll
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/bin/Debug/netcoreapp3.1/HigherOrLower.pdb
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/obj/Debug/netcoreapp3.1/HigherOrLower.csprojAssemblyReference.cache
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/obj/Debug/netcoreapp3.1/HigherOrLower.AssemblyInfoInputs.cache
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/obj/Debug/netcoreapp3.1/HigherOrLower.AssemblyInfo.cs
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/obj/Debug/netcoreapp3.1/HigherOrLower.csproj.CoreCompileInputs.cache
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/obj/Debug/netcoreapp3.1/HigherOrLower.dll
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/obj/Debug/netcoreapp3.1/HigherOrLower.pdb
+/Users/jordanswalker/Documents/99ConsoleApplications/99ConsoleApplications/Applications/HigherOrLower/obj/Debug/netcoreapp3.1/HigherOrLower.genruntimeconfig.cache

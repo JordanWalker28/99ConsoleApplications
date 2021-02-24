@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{47136335-9141-403A-833C-B10F8205E7D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HigherOrLower/Program.cs">
+    <Files>
+      <File FileName="NameGenerator/Program.cs" Line="9" Column="49" />
+      <File FileName="HigherOrLower/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="99ConsoleApplications" expanded="True">
+            <Node name="HigherOrLower" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HigherOrLower FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.NameGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
