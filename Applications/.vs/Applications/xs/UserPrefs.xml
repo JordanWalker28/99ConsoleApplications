@@ -1,9 +1,18 @@
-﻿<Properties StartupConfiguration="{45EB453F-8CF4-4C79-BAB7-97E202AF2942}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{47136335-9141-403A-833C-B10F8205E7D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NameGenerator/Program.cs">
+    <Files>
+      <File FileName="NameGenerator/Program.cs" Line="12" Column="96" />
+      <File FileName="NameGenerator/len-us-first-names-database/babynames-clean.csv" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Applications" expanded="True" selected="True" />
+          <Node name="Applications" expanded="True">
+            <Node name="NameGenerator" expanded="True">
+              <Node name="len-us-first-names-database" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -11,6 +20,9 @@
   <MonoDevelop.Ide.ItemProperties.HigherOrLower PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.NameGenerator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>CommonAssets/CommonAssets.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
